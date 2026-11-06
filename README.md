@@ -15,7 +15,7 @@
 ## About me
 
 - 🎓 **B.Sc. Industrial Engineering & Management**, Ben-Gurion University of the Negev (2025–2029)
-- 💡 **Building AI tools and automation for an architectural lighting design studio** in Tel Aviv, to cut hours of repetitive design-office work. Two tools are built and about to be rolled out to the team.
+- 💡 **Real-world projects:** AI tools for a lighting design studio and a marketing agency, built around what their staff actually needed.
 - ✈️ **Former Israeli Air Force Air Operations Control Officer**. Real-time decisions, high-stakes coordination, systems thinking.
 - 🤖 I work with an **AI-assisted development workflow** (Claude Code). I define the problem, make the main decisions and check the results; Claude writes the code.
 
@@ -23,13 +23,13 @@
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **Lighting Deck Generator** | Turns a CAD lighting plan (DXF) into an editable PowerPoint deck in the studio's style: mark the rooms, choose what is lit, pick photos from a tagged library. The glow copies the studio's own Photoshop files. Built for a task the team estimates at 7–9 hours per deck. | Python · FastAPI · Vanilla JS · pytest (262 tests) | [Code](https://github.com/guyavron/lighting-deck-generator) |
+| **Lighting Deck Generator** | Turns a CAD lighting plan (DXF) into an editable PowerPoint deck in the studio's style: mark the rooms, choose what is lit, pick photos from a tagged library. The glow copies the studio's own Photoshop files. Built for a task the team estimates at 7–9 hours per deck. | Python · FastAPI · Vanilla JS | [Code](https://github.com/guyavron/lighting-deck-generator) |
 | **Lighting Schedule Automation** | Extracts fixture specs from manufacturer PDFs into a fixed-format Excel lighting schedule, and matches each fixture against a bank of 266 fixtures from past projects, and flags likely duplicates for a person to check. | Python · Excel automation · Claude Skills | [Code](https://github.com/guyavron/lighting-schedule-automation) |
 | **Claude Skills: Marketing Pipeline** | A 3-stage AI pipeline for a marketing agency: client profile → competitor research → 30-day content plan, delivered as Hebrew (RTL) Word documents. Includes a versioned build/release process. | Claude Skills · Python · Node.js · docx | [Code](https://github.com/guyavron/claude-skills-marketing-pipeline) |
 | **Forge** | Fitness & nutrition app that installs on a phone from the browser: targets calculated from body stats, meal logging from a photo with AI, lift progress tracking and sleep. Each user sees only their own data, enforced by the database. | React · TypeScript · Supabase · Vercel · Gemini API | [Live](https://forge-pwa-mauve.vercel.app/) · [Code](https://github.com/guyavron/forge-pwa) |
 | **GradeWise** | Hebrew/RTL GPA calculator built for Israeli grading rules (protective "Magen" exams, pass/fail courses) that recommends which courses to mark as pass/fail to raise the average. Shared with classmates and friends. | JavaScript · Tailwind · GitHub Pages | [Live](https://guyavron.github.io/gradewise/) · [Code](https://github.com/guyavron/gradewise) |
 
-## Tech stack
+## Technologies in my projects
 
 **Languages**<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -52,7 +52,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ## What I'm looking for
