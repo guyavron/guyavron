@@ -15,7 +15,7 @@
 ## About me
 
 - 🎓 **B.Sc. Industrial Engineering & Management**, Ben-Gurion University of the Negev (2025–2029)
-- 💡 **Real-world projects:** AI tools for a lighting design studio and a marketing agency, built around what their staff actually needed.
+- 💡 **Real-world projects:** two AI tools for an architectural lighting design studio, built with the designer who will use them.
 - ✈️ **Former Israeli Air Force Air Operations Control Officer**. Real-time decisions, high-stakes coordination, systems thinking.
 - 🤖 I work with an **AI-assisted development workflow** (Claude Code). I define the problem, make the main decisions and check the results; Claude writes the code.
 
@@ -25,7 +25,6 @@
 |---|---|---|---|
 | **Lighting Deck Generator** | Turns a CAD lighting plan (DXF) into an editable PowerPoint deck in the studio's style: mark the rooms, choose what is lit, pick photos from a tagged library. The glow copies the studio's own Photoshop files. Built for a task the team estimates at 5–9 hours per deck. | Python · FastAPI · Vanilla JS | [Code](https://github.com/guyavron/lighting-deck-generator) |
 | **Lighting Schedule Automation** | Extracts fixture specs from manufacturer PDFs into a fixed-format Excel lighting schedule, and matches each fixture against a bank of 266 fixtures from past projects, and flags likely duplicates for a person to check. | Python · Excel automation · Claude Skills | [Code](https://github.com/guyavron/lighting-schedule-automation) |
-| **Claude Skills: Marketing Pipeline** | A 3-stage AI pipeline for a marketing agency: client profile → competitor research → 30-day content plan, delivered as Hebrew (RTL) Word documents. Includes a versioned build/release process. | Claude Skills · Python · Node.js · docx | [Code](https://github.com/guyavron/claude-skills-marketing-pipeline) |
 | **Forge** | Fitness & nutrition app that installs on a phone from the browser: targets calculated from body stats, meal logging from a photo with AI, lift progress tracking and sleep. Each user sees only their own data, enforced by the database. | React · TypeScript · Supabase · Vercel · Gemini API | [Live](https://forge-pwa-mauve.vercel.app/) · [Code](https://github.com/guyavron/forge-pwa) |
 | **GradeWise** | Hebrew/RTL GPA calculator built for Israeli grading rules (protective "Magen" exams, pass/fail courses) that recommends which courses to mark as pass/fail to raise the average. Shared with classmates and friends. | JavaScript · Tailwind · GitHub Pages | [Live](https://guyavron.github.io/gradewise/) · [Code](https://github.com/guyavron/gradewise) |
 
