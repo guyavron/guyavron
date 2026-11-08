@@ -23,10 +23,10 @@
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **Lighting Schedule Automation** | Extracts fixture specs from manufacturer PDFs into a fixed-format Excel lighting schedule, and matches each fixture against a bank of 266 fixtures from past projects, and flags likely duplicates for a person to check. | Python · Excel automation · Claude Skills | [Code](https://github.com/guyavron/lighting-schedule-automation) |
+| **Lighting Schedule Automation** | Turns manufacturer PDFs into lighting schedules in the studio's fixed Excel format, reuses 266 fixtures from past projects, and flags anything unclear for a person to check. | Python · Excel automation · Claude Skills | [Code](https://github.com/guyavron/lighting-schedule-automation) |
 | **Lighting Deck Generator** | Turns a CAD lighting plan (DXF) into an editable PowerPoint deck in the studio's style: mark the rooms, choose what is lit, pick photos from a tagged library. The glow copies the studio's own Photoshop files. Built for a task the team estimates at 5–9 hours per deck. | Python · FastAPI · Vanilla JS | [Code](https://github.com/guyavron/lighting-deck-generator) |
 | **Forge** | Fitness & nutrition app that installs on a phone from the browser: targets calculated from body stats, meal logging from a photo with AI, lift progress tracking and sleep. Each user sees only their own data, enforced by the database. | React · TypeScript · Supabase · Vercel · Gemini API | [Live](https://forge-pwa-mauve.vercel.app/) · [Code](https://github.com/guyavron/forge-pwa) |
-| **GradeWise** | Hebrew/RTL GPA calculator built for Israeli grading rules (protective "Magen" exams, pass/fail courses) that recommends which courses to mark as pass/fail to raise the average. Shared with classmates and friends. | JavaScript · Tailwind · GitHub Pages | [Live](https://guyavron.github.io/gradewise/) · [Code](https://github.com/guyavron/gradewise) |
+| **GradeWise** | Hebrew/RTL GPA calculator built for Israeli grading rules (protective "Magen" exams, pass/fail courses) that recommends which courses to mark as pass/fail to raise the average, and imports grades from a screenshot. Shared with classmates and friends. | JavaScript · Tailwind · GitHub Pages | [Live](https://guyavron.github.io/gradewise/) · [Code](https://github.com/guyavron/gradewise) |
 
 ## Technologies in my projects
 
