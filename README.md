@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Guy Avron 👋</h1>
 
 <p align="center">
-  <b>Industrial Engineering & Management student at Ben-Gurion University</b><br/>
+  <b>2nd-year Industrial Engineering & Management student at Ben-Gurion University</b><br/>
   I build AI-assisted tools that take slow, manual business workflows and make them faster.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guy-avron-41b44840a"><img src="https://img.shields.io/badge/LinkedIn-Guy%20Avron-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/guyavron"><img src="https://img.shields.io/badge/LinkedIn-Guy%20Avron-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:guyavron7@gmail.com"><img src="https://img.shields.io/badge/Email-guyavron7%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
